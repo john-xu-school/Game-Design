@@ -1,5 +1,8 @@
 # **Mario-Style Platform Game Technical Specification**
 
+## Suggestions
+I love the scale of this game, a lot of things to implement but I think it's going to be awesome. However, I don't see how the puzzle relate to the main gameloop, it seems more of a separate game. Secondly, I think having parallaxing and dynamic background (moving clouds and shifting foreground) will make the level more engaging. Lastly, I think making animations will be a bit tough, so maybe think of scaling your effort accordingly at reserve animations for only the most important actions.
+
 ## **1\. Technology Stack**
 
 ### **Core Technologies**
